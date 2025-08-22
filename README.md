@@ -3,7 +3,7 @@
 **Date:** August 2025  
 **Assignment:** CS 470 Final Reflection  
 **Presentation:** https://youtu.be/uib6fc2ayGc  
-**PDF Artifact:** [CS470_Final_Reflection_OnePage_Stronger.pdf](CS470_Final_Reflection_OnePage_Stronger.pdf)
+**PDF Artifact:** [CS470_Final_Reflection.pdf](CS470_Final_Reflection.pdf)
 
 ---
 
